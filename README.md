@@ -1,2 +1,3 @@
 # Beepbox
- Beepbox portfolio
+ Beepbox portfolio.
+ Available at https://erik-beepbox.netlify.app/

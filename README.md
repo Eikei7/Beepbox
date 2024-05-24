@@ -1,5 +1,7 @@
 # Beepbox music covers
  Beepbox music portfolio made entirely from HTML and CSS styling.
+ It features a widget for playing both my cover and the original song in Spotify.
+(If you're logged in to Spotify you'll get the full song rather than just 30 seconds).
 
  BeepBox.co is an online tool for sketching and sharing instrumental music.
 

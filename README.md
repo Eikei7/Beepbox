@@ -1,4 +1,4 @@
-# Beepbox
+# Beepbox music covers
  Beepbox music portfolio made entirely from HTML and CSS styling.
 
  BeepBox.co is an online tool for sketching and sharing instrumental music.

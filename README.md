@@ -7,6 +7,6 @@
 
  BeepBox.co is an online tool for sketching and sharing instrumental music.
 
- Available at https://erik-beepbox.netlify.app/
+ Available at https://beepbox.frontend-erik.se/
  
 ![1](https://github.com/user-attachments/assets/451cb052-5e55-4de8-92ab-937797bf4368)
